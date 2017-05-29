@@ -12,6 +12,6 @@ module.exports = {
   'second': {
        'zh':'秒',
        'en':'S',
-       'fr':'M'
+       'fr':'S'
   }
 }
